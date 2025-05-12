@@ -1,4 +1,4 @@
-##Inventory Management System OPP concepts project
+## Inventory Management System OPP concepts project
 
 This project is an Inventory Management System made using Object-Oriented Programming (OOP) in Python.
 
